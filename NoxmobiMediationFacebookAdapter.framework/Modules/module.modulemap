@@ -1,0 +1,6 @@
+framework module NoxmobiMediationFacebookAdapter {
+  umbrella header "NoxmobiMediationFacebookAdapter.h"
+
+  export *
+  module * { export * }
+}
