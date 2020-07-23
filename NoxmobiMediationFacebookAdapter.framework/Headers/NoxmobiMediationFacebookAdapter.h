@@ -7,8 +7,6 @@
 //  Copyright © 2020 Chong. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
-
 
 #define NoxmobiMediationFacebookAdapterVersion @"5.10.0.0"
 
