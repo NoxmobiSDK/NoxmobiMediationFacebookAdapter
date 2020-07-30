@@ -8,9 +8,6 @@ echo "\n🔥当前版本号："
 # 打印一下当前情况
 sed -n '/Mark/ p' $PodName.podspec
 
-echo "\n🔥修改完毕"
-sed -n '/Mark/ p' $PodName.podspec
-
 # ===============验证语法============================
 
 # 语法检查的原命令
