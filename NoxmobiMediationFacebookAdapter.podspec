@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NoxmobiMediationFacebookAdapter"
-  spec.version      = "5.10.1.2" # Mark
+  spec.version      = "5.10.1.3" # Mark
   spec.summary      = "Noxmobi ad mediation adapter for facebook."
   spec.homepage     = "https://github.com/NoxmobiSDK/NoxmobiMediationFacebookAdapter"
   spec.license      = "MIT"
