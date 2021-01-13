@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NoxmobiMediationFacebookAdapter"
-  spec.version      = "6.2.0.0" # Mark
+  spec.version      = "6.2.1.0" # Mark
   spec.summary      = "Noxmobi ad mediation adapter for facebook."
   spec.homepage     = "https://github.com/NoxmobiSDK/NoxmobiMediationFacebookAdapter"
   spec.license      = "MIT"
@@ -14,5 +14,5 @@ Pod::Spec.new do |spec|
   spec.ios.vendored_frameworks = 'NoxmobiMediationFacebookAdapter.framework'
   spec.requires_arc = true
 
-  spec.dependency "FBAudienceNetwork", "6.2.0"
+  spec.dependency "FBAudienceNetwork", "6.2.1"
 end
