@@ -8,6 +8,6 @@
 //
 
 
-#define NoxmobiMediationFacebookAdapterVersion @"6.2.1.0"
+#define NoxmobiMediationFacebookAdapterVersion @"6.3.0.0"
 
 
