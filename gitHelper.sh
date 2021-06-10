@@ -1,6 +1,6 @@
 #! /bin/bash
 
-# ===============修改podspec的版本号===========================
+# ===============修改podspec的版本号==========================
 
 PodName="NoxmobiMediationFacebookAdapter"
 
